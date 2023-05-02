@@ -1,0 +1,161 @@
+body {
+	font-family: 'Jost', sans-serif;
+	font-size: 20px;
+	font-weight: 400;
+	color: #292F36;
+	Line height: 1.2;
+}
+
+
+.container {
+	max-width: 1220px;
+	padding-right: 10px;
+	padding-left: 10px;
+}
+
+.row{
+	margin-top: 24px;
+/*	margin-right: -10px;
+	margin-left: -10px;*/
+}
+
+/*.row > * {
+	padding-right: 10px;
+	padding-left: 10px;
+}*/
+
+.navbar {
+	padding: 0;
+}
+
+.container-fluid.header {
+	align-items: center;
+	padding-top: 20px;
+}
+
+.nav-link.active.btn-home {
+	color: #CDA274;
+}
+
+.a-header {
+	padding-top: 8px;
+	padding-bottom: 0;
+}
+
+.li-header:nth-child(2) {
+	padding-right: 28px;
+	padding-left: 25px;
+}
+
+.li-header:nth-child(3) {
+	padding-right: 30px;
+}
+
+.home {
+	background-image: url(img/IMAGE-5.png);
+/*	background-size: 100% auto;*/
+	background-position: center;
+	background-repeat: no-repeat;}
+
+.home-col {
+	margin-top: 190px;
+	margin-bottom: 255px;
+	padding-right: 0;
+	padding-left: 20px;
+}
+
+.h1-home {
+	font-family: 'DM Serif Display', serif;
+	font-size: 80px;
+	margin-bottom: 20px;
+}
+
+.p-home {
+	font-size: 22px;
+	margin-bottom: 32px;
+}
+
+.a-home  {
+	padding-top: 22px;
+	padding-bottom: 22px;
+	padding-left: 30px;
+	padding-right: 35px;
+	background: #292F36;
+	font-size: 18px;
+	color: #FFFFFF;
+	border-radius: 20px;
+}
+
+.about {
+	margin-top: 180px;
+}
+
+.row-about {
+	text-align: center;
+}
+
+.h3-about {
+	font-family: 'DM Serif Display', serif;
+	font-size: 25px;
+	margin-bottom: 22px;
+}
+
+.p-about {
+	font-size: 22px;
+	color: #4D5053;
+	margin-bottom: 60px;
+}
+
+.a-about {
+	font-size: 18px;
+	color: #4D5053;
+}
+
+
+.challenge {
+	margin-top: 160px;
+}
+
+.h2-challenge {
+	font-family: 'DM Serif Display', serif;
+	font-size: 50px;
+	margin-top: 45px;
+	padding-left: 10px;
+}
+
+.p-challenge {
+	font-size: 22px;
+	color: #4D5053;
+	margin-top: 50px;
+	margin-bottom: 30px;
+	padding-left: 10px;
+	padding-right: 50px;
+}
+
+.a-challenge {
+	padding-left: 8px;
+	padding-right: 12px;
+	padding-bottom: 20px;
+}
+
+.div-challenge {
+	display: inline-block;
+	padding-top: 15px;
+	font-size: 22px;
+}
+
+
+.div-challenge a {
+	font-size: 24px;
+	text-decoration: none;
+	color: #4D5053;
+	
+}
+
+.bnt-get {
+	margin-top: 16px;
+}
+
+.bnt-getcol {
+	padding-left: 22px;
+}
